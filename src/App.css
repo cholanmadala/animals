@@ -1,0 +1,17 @@
+.animals-container {
+    /* display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+     */
+    /* /* display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px; */
+
+    /*display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding: 20px; */
+
+    columns: 300px 3;
+    column-gap: 30px;
+}
